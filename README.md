@@ -1,2 +1,4 @@
 # zafir-github
-my first github repo
+My first GitHub repo!
+<br>
+Author: zafir21
